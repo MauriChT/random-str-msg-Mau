@@ -1,0 +1,21 @@
+{
+  "name": "random-str-msg-mau",
+  "version": "1.0.0",
+  "description": "Random Strings Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauriChT/random-str-msg-Mau.git"
+  },
+  "keywords": [],
+  "author": "MauriCh <maurichurata@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/MauriChT/random-str-msg-Mau#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true 
+}
